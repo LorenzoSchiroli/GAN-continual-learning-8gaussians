@@ -1,4 +1,4 @@
-# Evaluation of Continual Learning approaches to mitigate mode collapse in Generative Adversarial 
+# Evaluation of Continual Learning approaches to mitigate mode collapse in Generative Adversarial Networks
 
 Research thesis for the Master’s degree in Computer Engineering, whose objective is to attempt to solve the mode collapse problem in GANs by applying Continual Learning methods to the discriminator.
 
